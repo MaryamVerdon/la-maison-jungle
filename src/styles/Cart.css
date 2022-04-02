@@ -33,3 +33,17 @@
 .lmj-cart-closed > button {
 	color: black;
 }
+
+.btn-delete {
+	background-color: white;
+	border: none;
+	color: #31b572;
+	padding: 10px 10px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 13px;
+	margin: 4px 2px;
+	display: flex;
+	cursor: pointer;
+	border-radius: 4px;
+}

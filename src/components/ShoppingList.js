@@ -27,6 +27,7 @@ function ShoppingList({ cart, updateCart }) {
 		}
 	}
 
+
 	return (
 		<div className='lmj-shopping-list'>
 			<Categories
@@ -56,4 +57,4 @@ function ShoppingList({ cart, updateCart }) {
 }
 
 	
-	export default ShoppingList;
+export default ShoppingList;

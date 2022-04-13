@@ -82,3 +82,5 @@ Vous n'avez jamais besoin d'utiliser `eject`. L'ensemble de fonctionnalités org
   - se familiariser avec les principes de base du `JSX` entre affichage conditionnel et création de listes de `composants`, `props` et `événements`.
   - se familiariser avec l'utilisation des `state` et de `useEffect`.
  
+Ce projet a été réalisé en suivant le cours `Débuter avec React` sur [openclassrooms](https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137561-tirez-le-maximum-de-ce-cours).
+ 

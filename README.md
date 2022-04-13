@@ -1,6 +1,6 @@
 # La maison Jungle : Application de vente de plantes avec Creat React App
 
-[La maison jungle](docs/img/accueil1.png)
+![La maison jungle](./docs/img/accueil1.PNG)
 
 ## Premiers pas avec l'application Create React
 
